@@ -1,6 +1,12 @@
 Welcome to this first draft of an informatik wiki!
 
-This wiki is only just started and is used for teaching informatics to danish high school pubils first of all.  
+This wiki is only just started with this draft.  It is still under construction.  But might be use full anyway.
+It is the intension that it to be is used for teaching informatics to danish high school pubils first of all.  
+
+To see the most inportant parts from here on a page with fokus on the text only and with no other disturbing github things, go here:
+
+https://rklarskovjensen.github.io/informatik/
+[Or press here](https://rklarskovjensen.github.io/informatik/)
 
 [This first link is to a page in danish where we want to introduce how to use a get and develope a wiki on github ](https://github.com/rklarskovjensen/informatik/wiki/wiki-p%C3%A5-github-%E2%80%90-Brug,-modificer-og-skab-i-og-med-en-wiki)
 
