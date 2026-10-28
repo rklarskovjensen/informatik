@@ -14,11 +14,16 @@ To see the most inportant parts from here on a page with fokus on the text only 
 https://rklarskovjensen.github.io/informatik/
 [Or press here](https://rklarskovjensen.github.io/informatik/)
 
-To get to the readme file used for the io page go here:
+To get to the readme file used for the content of the above page with the .io allso known as an io page go here:
 
 https://github.com/rklarskovjensen/informatik/blob/master/README.md
 [Or press here](https://github.com/rklarskovjensen/informatik/blob/master/README.md
 )
+
+And to get a tutorial for how to make your readme file come out as public homepage, as a io page from github go here:
+
+https://github.com/rklarskovjensen/informatik/wiki/Vejledning-til-at-offentligg%C3%B8re-github-side-som-hjemmeside,-hvor-alle-githubs-andre-valgmuligheder-ikke-vises
+[Or press this](https://github.com/rklarskovjensen/informatik/wiki/Vejledning-til-at-offentligg%C3%B8re-github-side-som-hjemmeside,-hvor-alle-githubs-andre-valgmuligheder-ikke-vises)
 
 The  important part of ths is how to develope the work together:
 
