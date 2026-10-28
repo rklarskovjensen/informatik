@@ -22,8 +22,7 @@ https://github.com/rklarskovjensen/informatik/blob/master/README.md
 
 And to get a tutorial for how to make your readme file come out as public homepage, as a io page from github go here:
 
-https://github.com/rklarskovjensen/informatik/wiki/Vejledning-til-at-offentligg%C3%B8re-github-side-som-hjemmeside,-hvor-alle-githubs-andre-valgmuligheder-ikke-vises
-[Or press here](https://github.com/rklarskovjensen/informatik/wiki/Vejledning-til-at-offentligg%C3%B8re-github-side-som-hjemmeside,-hvor-alle-githubs-andre-valgmuligheder-ikke-vises)
+[Press here](https://github.com/rklarskovjensen/informatik/wiki/Vejledning-til-at-offentligg%C3%B8re-github-side-som-hjemmeside,-hvor-alle-githubs-andre-valgmuligheder-ikke-vises)
 
 The  important part of ths is how to develope the work together:
 
