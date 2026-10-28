@@ -12,6 +12,10 @@ To see the most inportant parts from here on a page with fokus on the text only 
 https://rklarskovjensen.github.io/informatik/
 [Or press here](https://rklarskovjensen.github.io/informatik/)
 
+To get to the readme file used for the io page go here:
+
+https://github.com/rklarskovjensen/informatik/blob/master/README.md
+
 [This first link is to a page in danish where we want to introduce how to use a get and develope a wiki on github ](https://github.com/rklarskovjensen/informatik/wiki/wiki-p%C3%A5-github-%E2%80%90-Brug,-modificer-og-skab-i-og-med-en-wiki)
 
 Here are some other links as tastebuts, but thay will be developed further:
