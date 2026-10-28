@@ -19,7 +19,8 @@ To get to the readme file used for the io page go here:
 https://github.com/rklarskovjensen/informatik/blob/master/README.md
 [Or press here](https://github.com/rklarskovjensen/informatik/blob/master/README.md
 )
-[This first link is to a page in danish where we want to introduce how to use a get and develope a wiki on github ](https://github.com/rklarskovjensen/informatik/wiki/wiki-p%C3%A5-github-%E2%80%90-Brug,-modificer-og-skab-i-og-med-en-wiki)
+The  important part of ths is how to develope the work together
+[This link is to a page in danish where we want to introduce how to use a get and develope a wiki on github ](https://github.com/rklarskovjensen/informatik/wiki/wiki-p%C3%A5-github-%E2%80%90-Brug,-modificer-og-skab-i-og-med-en-wiki)
 
 Here are some other links as tastebuts, but thay will be developed further:
 
