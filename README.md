@@ -3,6 +3,8 @@ Welcome to this first draft of an informatik wiki!
 The wiki as it is made on github is here:
 
 https://github.com/rklarskovjensen/informatik/wiki
+[Or press here](https://github.com/rklarskovjensen/informatik/wiki)
+
 
 This wiki is only just started with this draft.  It is still under construction.  But might be use full anyway.
 It is the intension that it to be is used for teaching informatics to danish high school pubils first of all.  
